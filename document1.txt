@@ -15,6 +15,7 @@ def partition(l, r, nums):
 # for the right values.
 # lost ark
 # go home
+# glglehghkrk
  
 def quicksort(l, r, nums):
     if len(nums) == 1:  # Terminating Condition for recursion. VERY IMPORTANT!
